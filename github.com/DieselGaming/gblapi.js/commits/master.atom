@@ -1,0 +1,328 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xml:lang="en-US">
+  <id>tag:github.com,2008:/DieselGaming/gblapi.js/commits/master</id>
+  <link type="text/html" rel="alternate" href="https://github.com/DieselGaming/gblapi.js/commits/master"/>
+  <link type="application/atom+xml" rel="self" href="https://github.com/DieselGaming/gblapi.js/commits/master.atom"/>
+  <title>Recent Commits to gblapi.js:master</title>
+  <updated>2020-02-22T11:59:37Z</updated>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/ecd0cdb006a69ca3a37721093367d1f1c7670831</id>
+    <link type="text/html" rel="alternate" href="https://github.com/DieselGaming/gblapi.js/commit/ecd0cdb006a69ca3a37721093367d1f1c7670831"/>
+    <title>
+        Fixed merge
+    </title>
+    <updated>2020-02-22T11:59:37Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars0.githubusercontent.com/u/44411085?s=30&amp;u=01f768cf0baf91d9a59972cfbc51e97eab3e13b1&amp;v=4"/>
+    <author>
+      <name>DieselGaming</name>
+      <uri>https://github.com/DieselGaming</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Fixed merge&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/42ba64f357951bbe4aca0c0f3cbadc687bbcfeb0</id>
+    <link type="text/html" rel="alternate" href="https://github.com/DieselGaming/gblapi.js/commit/42ba64f357951bbe4aca0c0f3cbadc687bbcfeb0"/>
+    <title>
+        1.3.14
+    </title>
+    <updated>2020-02-22T11:58:41Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars0.githubusercontent.com/u/44411085?s=30&amp;u=01f768cf0baf91d9a59972cfbc51e97eab3e13b1&amp;v=4"/>
+    <author>
+      <name>DieselGaming</name>
+      <uri>https://github.com/DieselGaming</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;1.3.14&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/e5a2d4b608206c1deca5a6d75a49a1967b6b09d6</id>
+    <link type="text/html" rel="alternate" href="https://github.com/DieselGaming/gblapi.js/commit/e5a2d4b608206c1deca5a6d75a49a1967b6b09d6"/>
+    <title>
+        Updated updateStatsOld, deprecated, added get version()
+    </title>
+    <updated>2020-02-22T11:58:38Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars0.githubusercontent.com/u/44411085?s=30&amp;u=01f768cf0baf91d9a59972cfbc51e97eab3e13b1&amp;v=4"/>
+    <author>
+      <name>DieselGaming</name>
+      <uri>https://github.com/DieselGaming</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Updated updateStatsOld, deprecated, added get version()&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/cb5bd672703ec7af14bc229bc87d356e2cf0c9c5</id>
+    <link type="text/html" rel="alternate" href="https://github.com/DieselGaming/gblapi.js/commit/cb5bd672703ec7af14bc229bc87d356e2cf0c9c5"/>
+    <title>
+        Update package.json
+    </title>
+    <updated>2020-02-16T22:34:30Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars0.githubusercontent.com/u/44411085?s=30&amp;u=01f768cf0baf91d9a59972cfbc51e97eab3e13b1&amp;v=4"/>
+    <author>
+      <name>DieselGaming</name>
+      <uri>https://github.com/DieselGaming</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Update package.json&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/0503f55cba6b4b0e55101cf1442103beda680c20</id>
+    <link type="text/html" rel="alternate" href="https://github.com/DieselGaming/gblapi.js/commit/0503f55cba6b4b0e55101cf1442103beda680c20"/>
+    <title>
+        1.3.13
+    </title>
+    <updated>2020-01-17T17:46:58Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars0.githubusercontent.com/u/44411085?s=30&amp;u=01f768cf0baf91d9a59972cfbc51e97eab3e13b1&amp;v=4"/>
+    <author>
+      <name>DieselGaming</name>
+      <uri>https://github.com/DieselGaming</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;1.3.13&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/20adea4a9a3331c6bdbac657a34e2574bf83c5d5</id>
+    <link type="text/html" rel="alternate" href="https://github.com/DieselGaming/gblapi.js/commit/20adea4a9a3331c6bdbac657a34e2574bf83c5d5"/>
+    <title>
+        Fixed hasVoted
+    </title>
+    <updated>2020-01-17T17:46:54Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars0.githubusercontent.com/u/44411085?s=30&amp;u=01f768cf0baf91d9a59972cfbc51e97eab3e13b1&amp;v=4"/>
+    <author>
+      <name>DieselGaming</name>
+      <uri>https://github.com/DieselGaming</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Fixed hasVoted&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/53c74b4ce2949fe4aa4200678e6fc1f5eaa3858b</id>
+    <link type="text/html" rel="alternate" href="https://github.com/DieselGaming/gblapi.js/commit/53c74b4ce2949fe4aa4200678e6fc1f5eaa3858b"/>
+    <title>
+        1.3.12
+    </title>
+    <updated>2020-01-14T18:05:41Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars0.githubusercontent.com/u/44411085?s=30&amp;u=01f768cf0baf91d9a59972cfbc51e97eab3e13b1&amp;v=4"/>
+    <author>
+      <name>DieselGaming</name>
+      <uri>https://github.com/DieselGaming</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;1.3.12&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/6c12a9e072360beada9f760b9062416b8147c7bb</id>
+    <link type="text/html" rel="alternate" href="https://github.com/DieselGaming/gblapi.js/commit/6c12a9e072360beada9f760b9062416b8147c7bb"/>
+    <title>
+        Updated to use new API Version, added authorization headers etc
+    </title>
+    <updated>2020-01-14T18:04:48Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars0.githubusercontent.com/u/44411085?s=30&amp;u=01f768cf0baf91d9a59972cfbc51e97eab3e13b1&amp;v=4"/>
+    <author>
+      <name>DieselGaming</name>
+      <uri>https://github.com/DieselGaming</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Updated to use new API Version, added authorization headers etc&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/523132cf433fd78dd9cbc1477ade27a23101ecbd</id>
+    <link type="text/html" rel="alternate" href="https://github.com/DieselGaming/gblapi.js/commit/523132cf433fd78dd9cbc1477ade27a23101ecbd"/>
+    <title>
+        1.3.11
+    </title>
+    <updated>2019-12-16T16:39:42Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars0.githubusercontent.com/u/44411085?s=30&amp;u=01f768cf0baf91d9a59972cfbc51e97eab3e13b1&amp;v=4"/>
+    <author>
+      <name>DieselGaming</name>
+      <uri>https://github.com/DieselGaming</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;1.3.11&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/08ca902928cf9d89953959f708089ad9118f71f6</id>
+    <link type="text/html" rel="alternate" href="https://github.com/DieselGaming/gblapi.js/commit/08ca902928cf9d89953959f708089ad9118f71f6"/>
+    <title>
+        Changed auth headers back to body
+    </title>
+    <updated>2019-12-16T16:39:40Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars0.githubusercontent.com/u/44411085?s=30&amp;u=01f768cf0baf91d9a59972cfbc51e97eab3e13b1&amp;v=4"/>
+    <author>
+      <name>DieselGaming</name>
+      <uri>https://github.com/DieselGaming</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Changed auth headers back to body&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/69fdbf1a3a29c7f338025ddf6a90008afe2b9860</id>
+    <link type="text/html" rel="alternate" href="https://github.com/DieselGaming/gblapi.js/commit/69fdbf1a3a29c7f338025ddf6a90008afe2b9860"/>
+    <title>
+        Typings
+    </title>
+    <updated>2019-12-15T18:01:25Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars0.githubusercontent.com/u/44411085?s=30&amp;u=01f768cf0baf91d9a59972cfbc51e97eab3e13b1&amp;v=4"/>
+    <author>
+      <name>DieselGaming</name>
+      <uri>https://github.com/DieselGaming</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Typings&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/8c76fdd99afae013ec10920a6d02849ee6552800</id>
+    <link type="text/html" rel="alternate" href="https://github.com/DieselGaming/gblapi.js/commit/8c76fdd99afae013ec10920a6d02849ee6552800"/>
+    <title>
+        1.3.10
+    </title>
+    <updated>2019-12-15T16:26:40Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars0.githubusercontent.com/u/44411085?s=30&amp;u=01f768cf0baf91d9a59972cfbc51e97eab3e13b1&amp;v=4"/>
+    <author>
+      <name>DieselGaming</name>
+      <uri>https://github.com/DieselGaming</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;1.3.10&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/3856c4d632d63f00b45baead998136cad129e115</id>
+    <link type="text/html" rel="alternate" href="https://github.com/DieselGaming/gblapi.js/commit/3856c4d632d63f00b45baead998136cad129e115"/>
+    <title>
+        Updated updateStats to use new authorization header
+    </title>
+    <updated>2019-12-15T16:26:34Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars0.githubusercontent.com/u/44411085?s=30&amp;u=01f768cf0baf91d9a59972cfbc51e97eab3e13b1&amp;v=4"/>
+    <author>
+      <name>DieselGaming</name>
+      <uri>https://github.com/DieselGaming</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Updated updateStats to use new authorization header&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/344dcf49c06895d9f4a01f9d6f22f78307e2cbbd</id>
+    <link type="text/html" rel="alternate" href="https://github.com/DieselGaming/gblapi.js/commit/344dcf49c06895d9f4a01f9d6f22f78307e2cbbd"/>
+    <title>
+        1.3.9
+    </title>
+    <updated>2019-12-05T18:53:14Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars0.githubusercontent.com/u/44411085?s=30&amp;u=01f768cf0baf91d9a59972cfbc51e97eab3e13b1&amp;v=4"/>
+    <author>
+      <name>DieselGaming</name>
+      <uri>https://github.com/DieselGaming</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;1.3.9&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/fc61945c7595ed66515b1c7e729c9cccd6c52a70</id>
+    <link type="text/html" rel="alternate" href="https://github.com/DieselGaming/gblapi.js/commit/fc61945c7595ed66515b1c7e729c9cccd6c52a70"/>
+    <title>
+        Fixed endpoint
+    </title>
+    <updated>2019-12-05T18:53:07Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars0.githubusercontent.com/u/44411085?s=30&amp;u=01f768cf0baf91d9a59972cfbc51e97eab3e13b1&amp;v=4"/>
+    <author>
+      <name>DieselGaming</name>
+      <uri>https://github.com/DieselGaming</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Fixed endpoint&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/daa6321bb0bd545775521a3d2fb8004244b7fd42</id>
+    <link type="text/html" rel="alternate" href="https://github.com/DieselGaming/gblapi.js/commit/daa6321bb0bd545775521a3d2fb8004244b7fd42"/>
+    <title>
+        1.3.8
+    </title>
+    <updated>2019-12-04T20:58:28Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars0.githubusercontent.com/u/44411085?s=30&amp;u=01f768cf0baf91d9a59972cfbc51e97eab3e13b1&amp;v=4"/>
+    <author>
+      <name>DieselGaming</name>
+      <uri>https://github.com/DieselGaming</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;1.3.8&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/37a8c8d92b8cbd8ffcf206f3e156154b0b1071b5</id>
+    <link type="text/html" rel="alternate" href="https://github.com/DieselGaming/gblapi.js/commit/37a8c8d92b8cbd8ffcf206f3e156154b0b1071b5"/>
+    <title>
+        Updated with new GBL API Endpoints
+    </title>
+    <updated>2019-12-04T20:54:56Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars0.githubusercontent.com/u/44411085?s=30&amp;u=01f768cf0baf91d9a59972cfbc51e97eab3e13b1&amp;v=4"/>
+    <author>
+      <name>DieselGaming</name>
+      <uri>https://github.com/DieselGaming</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Updated with new GBL API Endpoints&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/f4642b1a4bfaa4bed63ab526cdf573fcacd5a36d</id>
+    <link type="text/html" rel="alternate" href="https://github.com/DieselGaming/gblapi.js/commit/f4642b1a4bfaa4bed63ab526cdf573fcacd5a36d"/>
+    <title>
+        1.3.7
+    </title>
+    <updated>2019-11-14T16:13:45Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars0.githubusercontent.com/u/44411085?s=30&amp;u=01f768cf0baf91d9a59972cfbc51e97eab3e13b1&amp;v=4"/>
+    <author>
+      <name>DieselGaming</name>
+      <uri>https://github.com/DieselGaming</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;1.3.7&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/7b39d23e7e41465c25c2d4b2603add0699acbbb8</id>
+    <link type="text/html" rel="alternate" href="https://github.com/DieselGaming/gblapi.js/commit/7b39d23e7e41465c25c2d4b2603add0699acbbb8"/>
+    <title>
+        1.3.6
+    </title>
+    <updated>2019-11-09T21:47:39Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars0.githubusercontent.com/u/44411085?s=30&amp;u=01f768cf0baf91d9a59972cfbc51e97eab3e13b1&amp;v=4"/>
+    <author>
+      <name>DieselGaming</name>
+      <uri>https://github.com/DieselGaming</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;1.3.6&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/9b37023a7be4f8354b0a4e550aea57e7b5393b13</id>
+    <link type="text/html" rel="alternate" href="https://github.com/DieselGaming/gblapi.js/commit/9b37023a7be4f8354b0a4e550aea57e7b5393b13"/>
+    <title>
+        Merge branch &#39;master&#39; of https://github.com/DieselGaming/gblapi.js
+    </title>
+    <updated>2019-11-09T21:46:59Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars0.githubusercontent.com/u/44411085?s=30&amp;u=01f768cf0baf91d9a59972cfbc51e97eab3e13b1&amp;v=4"/>
+    <author>
+      <name>DieselGaming</name>
+      <uri>https://github.com/DieselGaming</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Merge branch &amp;#39;master&amp;#39; of https://github.com/DieselGaming/gblapi.js&lt;/pre&gt;
+    </content>
+  </entry>
+</feed>
